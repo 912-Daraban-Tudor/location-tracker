@@ -1,0 +1,6 @@
+{
+  "appTitle": "Locations App",
+  "@appTitle": {
+    "description": "An app that allows users to privately store important locations"
+  }
+}
